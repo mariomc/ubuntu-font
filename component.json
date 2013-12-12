@@ -1,0 +1,25 @@
+{
+  "name": "ubuntu-font",
+  "repo": "mariomc/ubuntu-font",
+  "description": "Ubuntu Font Family",
+  "version": "0.80.0",
+  "keywords": ["Ubuntu", "Font"],
+  "dependencies": {},
+  "development": {},
+  "license": "UBUNTU FONT LICENCE 1.0",
+  "fonts": [
+    "Ubuntu-B.ttf",
+    "Ubuntu-BI.ttf",
+    "Ubuntu-C.ttf",
+    "Ubuntu-L.ttf",
+    "Ubuntu-LI.ttf",
+    "Ubuntu-M.ttf",
+    "Ubuntu-MI.ttf",
+    "UbuntuMono-B.ttf",
+    "UbuntuMono-BI.ttf",
+    "UbuntuMono-R.ttf",
+    "UbuntuMono-RI.ttf",
+    "Ubuntu-R.ttf",
+    "Ubuntu-RI.ttf"
+  ]
+}
